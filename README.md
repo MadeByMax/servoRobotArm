@@ -1,2 +1,1 @@
-# servoRobotArm
-servoRobotArm
+Servo robot arm project basic
